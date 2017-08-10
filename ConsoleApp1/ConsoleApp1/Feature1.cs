@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     class Feature1
     {
+        Feature1()
+        {
+
+        }
     }
 }
