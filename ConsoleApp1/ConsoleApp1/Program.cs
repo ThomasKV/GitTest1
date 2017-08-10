@@ -14,6 +14,7 @@ namespace ConsoleApp1
             // Another remark inserted using GitHub
 
             // Code to call Feature1 class and some thing else
+            // Add code to call Feature3
         }
     }
 }
