@@ -8,9 +8,10 @@ namespace ConsoleApp1
 {
     class Feature1
     {
-        Feature1()
+        int _x;
+        Feature1(int x)
         {
-
+            _x = x;
         }
     }
 }
